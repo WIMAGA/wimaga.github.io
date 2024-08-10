@@ -6,18 +6,28 @@
   description: >
     Department of Electrical Engineering, IIT Bombay
     
-    > Bio to be added
-    Bio to be added
-
+    > Preeti Rao is a Professor in the Department of Electrical Engg. at IIT Bombay with research interests in 
+    speech and music processing, contributing to audio analyses for music pedagogy and computational musicology 
+    for Indian art music traditions. She has served as a technical programme chair and meta-reviewer for past 
+    editions of the ISMIR conference. She was a general chair for ISMIR 2022 in Bengaluru. She currently serves 
+    on the editorial boards of the Journal of New Music Research (JNMR), Transactions of the International Society 
+    of Music Information Retrieval (TISMIR) and the Journal of Analytical Approaches to Music of South Asia. 
+    Website: [https://www.ee.iitb.ac.in/web/people/preeti-rao/](https://www.ee.iitb.ac.in/web/people/preeti-rao/)
   email: prao@ee.iitb.ac.in
 
 - name: Hema Murthy
-  role: Professor
+  role: Professor Emeritus
   image: assets/theme/images/hemamurthy.png
   description: >
-    Department of Computer Science and Engineering
-
-    > Bio to be added
-    Bio to be added
-
+    Department of Computer Science and Engineering, IIT Madras
+    > Hema Murthy is a Professor Emeritus in the Department of Computer Science and Engineering at IIT Madras. 
+    Her research interests are primarily grounded in Signal Processing guided Machine Learning, with applications 
+    in speech, music and brain signals. She has served as a meta reviewer for ISMIR, general chair for ISMIR 2022, 
+    TPC chair INTERSPEECH 2018, member of ISCA board (2017-2021).  Currently she is an Associate Editor for the IEEE 
+    Transactions on Acoustics Speech and Language Processing. She leads a consortium of 24 Institutions 
+    on "Speech Technologies in Indian Languages." She is a fellow of the Indian National Academy of Engineering (2017), 
+    fellow of ISCA (International Speech Communication Association) (2022), and a fellow of Asia Pacific Artificial 
+    Intelligence Association (2023). 
+    Website: [www.cse.iitm.ac.in/~hema](www.cse.iitm.ac.in/~hema)
   email: hema@cse.iitm.ac.in
+
