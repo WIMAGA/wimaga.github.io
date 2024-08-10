@@ -1,0 +1,23 @@
+# Project team members listed below will appear on the /team page
+
+- name: Preeti Rao
+  role: Professor
+  image: assets/theme/images/preetirao.png
+  description: >
+    Department of Electrical Engineering, IIT Bombay
+    
+    > Bio to be added
+    Bio to be added
+
+  email: prao@ee.iitb.ac.in
+
+- name: Hema Murthy
+  role: Professor
+  image: assets/theme/images/hemamurthy.png
+  description: >
+    Department of Computer Science and Engineering
+
+    > Bio to be added
+    Bio to be added
+
+  email: hema@cse.iitm.ac.in
