@@ -84,6 +84,7 @@
   image: assets/theme/images/manaswi.png
   description: > 
     MIT Media Lab, USA
+    
     > Manaswi Mishra is a PhD student and LEGO Papert fellow at MIT Media Lab, 
     in the Opera of the Future research group with Prof. Tod Machover. His 
     research is focused on generative AI for audio synthesis and novel instrument 
@@ -100,6 +101,7 @@
   image: assets/theme/images/ranjanihg.png
   description: > 
     GAIA, Ericsson R&D in Bengaluru, India
+    
     > Ranjani H G is a Principal Data Scientist at GAIA, Ericsson R&D in Bengaluru, India. 
     Her research interests include machine learning, signal processing, speech, audio and 
     music signal analysis and RAN. Her PhD thesis topic was computational approaches for 
@@ -113,14 +115,14 @@
   image: assets/theme/images/ajay.png
   description: > 
     Amazon AGI, India; IIT Hyderabad, India
-    > 
-    Ajay Srinivasamurthy is an Applied Science Manager at Amazon Artificial General 
+    
+    > Ajay Srinivasamurthy is an Applied Science Manager at Amazon Artificial General 
     Intelligence team in Bengaluru, India and a visiting member of the faculty at 
     the Department of Heritage Science and Technology, IIT Hyderabad. His research 
     interests span speech, audio and music signal processing and machine learning. 
     He has been a meta-reviewer in the past editions of the ISMIR conference and has 
     served as the general chair for ISMIR 2022 in Bengaluru, India. He currently 
-    serves on the ISMIR board leading its technology initiatives. 
+    serves on the ISMIR board leading its technology initiatives. Website: [https://www.ajaysrinivasamurthy.in/](https://www.ajaysrinivasamurthy.in/)
 
   email: ajaysri@amazon.com
   
