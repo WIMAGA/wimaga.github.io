@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Workshop on Indian Music Analysis and Generative Applications (WIMAGA)
+title: WIMAGA
 description: ICASSP 2025 Satellite Workshop
 background: /assets/theme/images/header.png
 permalink: /
