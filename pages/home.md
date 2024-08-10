@@ -1,7 +1,7 @@
 ---
 layout: home
-title: EEG workshop
-description: ICASSP 2023 Satellite Workshop
+title: Workshop on Indian Music Analysis and Generative Applications (WIMAGA)
+description: ICASSP 2025 Satellite Workshop
 background: /assets/theme/images/header.png
 permalink: /
 ---
