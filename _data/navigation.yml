@@ -2,7 +2,7 @@
 
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
-- text: Call
+- text: Call for Papers
   href: true
 - text: Scope
   href: true
