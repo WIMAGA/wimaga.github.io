@@ -5,14 +5,7 @@ permalink: /call/
 ---
 
 ## **<span style="color:#2B547E">Submit a paper to WIMAGA </span>**
-
-Papers to the workshop can be submitted through the ICASSP-2025 paper management system (Microsoft CMT) (A link to the submission site will be added soon). Upon acceptance, paper authors will have the opportunity to present their paper at the workshop, and the paper be published at the IEEE Xplore Digital Library.
-
-More details to be added. 
-
-### **<span style="color:#2B547E">Topics</span>**
-
-Relevant topics for WIMAGA 2025 include, but are not limited to:
+The workshop invites submission of original and unplblished research on the topics relevant for WIMAGA. Relevant topics for WIMAGA 2025 include, but are not limited to:
 
 - Signal Processing and Machine Learning for Indian music encompassing art, film, folk and independent music
 - Applications and Datasets
@@ -23,9 +16,11 @@ Relevant topics for WIMAGA 2025 include, but are not limited to:
 - Computational analysis of oral traditions in music, recitation of hymns, poems, story telling, theatre and beyond Indian music
 - Artist centric tools including human machine co-creation using generative AI
 
-### **<span style="color:#2B547E">Important Dates</span>**
+Submitted workshop papers should abide by the ICASSP-2025 paper style, format, and length. Papers to the workshop will be submitted through the ICASSP-2025 paper management system (Microsoft CMT) (A link to the submission site and further instructions will be added soon). All submissions go through a single-blind peer-review similar to ICASSP 2025 abiding by the main conference reviewing guidelines. Upon acceptance, paper authors will have the opportunity to present their paper at the workshop and there must be an author of each accepted workshop paper presenting it in-person. The workshop papers will be published on the IEEE Xplore Digital Library (with a separate conference record number). 
 
-First Call for Papers: August 21, 2024
+Please watch this space for further details!
+
+### **<span style="color:#2B547E">Important Dates</span>**
 
 Workshop Paper Submission Deadline: November 1, 2024
 
