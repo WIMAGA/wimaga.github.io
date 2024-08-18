@@ -6,7 +6,7 @@ permalink: /call/
 
 ## **<span style="color:#2B547E">Submit a paper to WIMAGA </span>**
 
-Papers to the wrkshop can be submitted through the ICASSP-2025 paper management system (Microsoft CMT): [Paper Submission](TBA). Upon acceptance, paper authors will have the opportunity to present their paper at the workshop, and the paper be published at the IEEE Xplore Digital Library.
+Papers to the workshop can be submitted through the ICASSP-2025 paper management system (Microsoft CMT) (A link to the submission site will be added soon). Upon acceptance, paper authors will have the opportunity to present their paper at the workshop, and the paper be published at the IEEE Xplore Digital Library.
 
 More details to be added. 
 
