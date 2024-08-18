@@ -21,7 +21,7 @@ Relevant topics for WIMAGA 2025 include, but are not limited to:
 - Multimodal Analysis of Audio, Text, Video
 - Multilingual use-cases such as dubbing music videos
 - Computational analysis of oral traditions in music, recitation of hymns, poems, story telling, theatre and beyond Indian music
-- Artist centric including human machine co-creation using generative AI
+- Artist centric tools including human machine co-creation using generative AI
 
 ### **<span style="color:#2B547E">Important Dates</span>**
 
