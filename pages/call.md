@@ -1,5 +1,6 @@
 ---
-title: Call for Papers
+title: Call
+description: Call for Papers
 background: /assets/theme/images/header.png
 permalink: /call/
 ---
