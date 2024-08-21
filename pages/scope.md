@@ -6,7 +6,7 @@ permalink: /scope/
 ---
 
 
-### **<span style="color:#2B547E">Scope</span>**
+### **<span style="color:$gray-800">Scope</span>**
 \
 India is replete with diverse and thriving art, folk and film music cultures. These music cultures are backed by centuries of evolution in performance, practice, music instruments, pedagogy, musicology and a dedicated community. As one of the fastest growing emerging markets, India provides multiple opportunities for the growth of music and music applications, necessitating the research and development of technologies for improved production and consumption of music. The unique combination of sophisticated and diverse music cultures, coupled with growing applications has renewed interest in a multitude of research problems in Music Information Research (MIR) for Indian music, while also posing new challenges and providing novel opportunities. 
 
