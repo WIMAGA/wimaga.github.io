@@ -1,8 +1,8 @@
 ---
 layout: team
 title: Team
-description: Workshop Organisers
-background: /assets/theme/images/bckg.png
+description: Workshop Organizers
+background: /assets/theme/images/header.png
 permalink: /team/
 ---
 
