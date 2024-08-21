@@ -1,6 +1,7 @@
 ---
 title: Scope
-background: /assets/theme/images/bckg.png
+background: /assets/theme/images/header.png
+description: Scope of the Workshop and Topics
 permalink: /scope/
 ---
 
