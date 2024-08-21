@@ -6,8 +6,7 @@ permalink: /scope/
 ---
 
 
-### **<span style="color:$gray-800">Scope</span>**
-\
+## **<span style="color:$gray-800">Scope</span>**
 India is replete with diverse and thriving art, folk and film music cultures. These music cultures are backed by centuries of evolution in performance, practice, music instruments, pedagogy, musicology and a dedicated community. As one of the fastest growing emerging markets, India provides multiple opportunities for the growth of music and music applications, necessitating the research and development of technologies for improved production and consumption of music. The unique combination of sophisticated and diverse music cultures, coupled with growing applications has renewed interest in a multitude of research problems in Music Information Research (MIR) for Indian music, while also posing new challenges and providing novel opportunities. 
 
 MIR spans a wide range of problems and tools grounded in signal processing and machine learning, and has had a significant presence within ICASSP over the last two decades. However, there have been challenges to building MIR methods for analysis and synthesis of Indian music. Some of the unique aspects of Indian music are the dominance and sophistication of oral traditions, under-explored instruments and performance styles, diverse music cultures, and  limited adoption of technology. Consequently, there has been a scarcity of annotated datasets and meaningful evaluation metrics linked to specific problems rooted in Indian music. Further, the growing global attention to music generation research raises interest in the potential of domain-specific representations.
