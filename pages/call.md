@@ -1,6 +1,6 @@
 ---
 title: Call
-background: /assets/theme/images/bckg.png
+background: /assets/theme/images/header.png
 permalink: /call/
 ---
 
