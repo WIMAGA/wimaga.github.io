@@ -1,6 +1,6 @@
 ---
 title: Program
-background: /assets/theme/images/bckg.png
+background: /assets/theme/images/header.png
 permalink: /program/
 ---
 
