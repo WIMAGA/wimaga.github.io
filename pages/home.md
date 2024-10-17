@@ -17,7 +17,7 @@ Music Information Research (MIR) spans a wide range of problems and tools that a
 
 First Call for Papers: August 21, 2024
 
-Workshop Paper Submission Deadline: November 1, 2024
+Workshop Paper Submission Deadline: ~~November 1, 2024~~ November 8, 2024
 
 Workshop Paper Acceptance Notification: December 18, 2024
 
