@@ -19,7 +19,7 @@ The workshop invites submission of original and unpublished research papers on t
 
 ### **<span style="color:$gray-800">Important Dates</span>**
 
-Workshop Paper Submission Deadline: November 1, 2024
+Workshop Paper Submission Deadline: ~~November 1, 2024~~ November 8, 2024
 
 Workshop Paper Acceptance Notification: December 18, 2024
 
