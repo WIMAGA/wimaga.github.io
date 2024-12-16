@@ -21,7 +21,7 @@ The workshop invites submission of original and unpublished research papers on t
 
 Workshop Paper Submission Deadline: ~~November 1, 2024~~ November 8, 2024
 
-Workshop Paper Acceptance Notification: December 18, 2024
+Workshop Paper Acceptance Notification: ~~December 18, 2024~~ December 16, 2024
 
 Workshop Camera Ready Paper Deadline: January 13, 2025
 
