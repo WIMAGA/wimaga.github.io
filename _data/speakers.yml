@@ -1,0 +1,32 @@
+# Speakers members listed below will appear on the /speakers page
+
+- name: Sumithra Vasudev
+  role: Carnatic Musician and Researcher
+  image: assets/theme/images/sumithravasudev.png
+  description: >
+    Department of Electrical Engineering, IIT Bombay, India
+    
+    > Dr. Sumithra Vasudev is a reputed musician, prime disciple of legendary musician Sangita Kalanidhi 
+    Smt. R. Vedavalli, and has been performing in the field of Carnatic Classical music for over 30 years. 
+    Sumithra’s music stands out for classicism and depth, while emphasizing manodharma within the lakshana 
+    framework. Tanam, Niraval, Vrttam singing and Ragam Tanam Pallavi rendition are special areas which 
+    portray her own style as well as her illustrious lineage. An A grade artiste of the All India Radio, 
+    Sumithra performs regularly in Chennai, other places in India like Bangalore, Kerala, Mumbai and Delhi, 
+    and abroad. She has participated in many of the well-known Carnatic music festivals like 
+    The December Music Season, Hindu’s November Fest, Aradhana festivals, Sangeet Pratibha organized by 
+    Sangeet Natak Akademi and the Cleveland Tyagaraja Aradhana.
+  email: sumithravasudev22214@gmail.com
+
+- name: Geoffroy Peeters
+  role: Professor
+  image: assets/theme/images/geoffroypeeters.png
+  description: >
+    Télécom Paris, France
+    
+    > Geoffroy Peeters is full-professor in the LTCI S2A team at Télécom Paris. He received his PHDs degree 
+    in 2001 and Habilitation in 2013 from University Paris-VI on audio signal processing, data analysis and 
+    machine learning. Before joining Télécom Paris, he lead research related to Music Information Retrieval 
+    at IRCAM. His current research work is on signal processing, machine learning and deep learning applied 
+    to audio and music data analysis.
+    Website: [https://www.telecom-paris.fr/geoffroy-peeters](https://www.telecom-paris.fr/geoffroy-peeters)
+  email: geoffroy.peeters@telecom-paristech.fr
