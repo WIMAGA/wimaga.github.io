@@ -13,7 +13,7 @@ The workshop will comprise invited keynote talks, with peer-reviewed papers pres
 
 #### **<span style="color:$gray-800">Venue</span>**
 The workshop is co-located with ICASSP 2025, and will take place at the   
-**Hyderabad International Convention Centre (HICC)**,
+**Hyderabad International Convention Centre (HICC)**,   
 Novotel & HICC Complex,  
 HITEC City, Hyderabad,  
 Telangana 500081, India.  
