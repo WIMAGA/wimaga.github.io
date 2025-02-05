@@ -22,7 +22,7 @@ Telangana 500081, India.
 
 The exact room in the venue will be announced closer to the workshop. 
 
-#### **<span style="color:$gray-800">Schedule</span>**
+#### **<span style="color:$gray-800">Tentative Schedule</span>**
 
 | Time     | Details |
 | -------- | ------- |
