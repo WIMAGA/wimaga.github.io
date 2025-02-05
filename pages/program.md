@@ -35,7 +35,7 @@ The exact room in the venue will be announced closer to the workshop.
 |  14:00 - 14:30 | **Session-3**: Paper Presentations |
 |  14:30 - 15:30 | **Poster Session** (all papers) | 
 |  15:30 - 16:00 | Coffee Break |
-|  16:00 - 16:45 | **Panel Discussion** (Moderator: *Prof. Xavier Serra*) | 
+|  16:00 - 16:45 | **Panel Discussion** | 
 |  16:45 - 17:30 | Breakout sessions| 
 
 #### **<span style="color:$gray-800">List of Accepted Papers</span>**  
