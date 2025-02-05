@@ -69,7 +69,7 @@ The following accepted papers will be presented during the workshop:
 *Sumit Kumar, Parampreet Singh, Vipul Arora*
 
 **On Investigating a Better Audio Representation for Mood Classification in Indian Popular Music**  
-*Joe Cheri Ross, iArathi K, Hotha  Durga Swetha, Vaishali V G, Abhijith V, Kalyan Munukutla, Shalini Gurram*
+*Arathi K, Hotha  Durga Swetha, Vaishali V G, Kalyan Munukutla, Abhijith V, Shalini Gurram, Joe Cheri Ross*
 
 **A Notation Dataset for Indian Raga Music**  
 *Soham Korade, Suswara Pochampally*
