@@ -38,38 +38,38 @@ The exact room in the venue will be announced closer to the workshop.
 |  16:00 - 16:45 | **Panel Discussion** (Moderator: *Prof. Xavier Serra*) | 
 |  16:45 - 17:30 | Breakout sessions| 
 
-#### **<span style="color:$gray-800">List of Accepted Papers</span>**
+#### **<span style="color:$gray-800">List of Accepted Papers</span>**  
 The following accepted papers will be presented during the workshop: 
 
-**Thoughts on mapping and interface design of a keyboard to perform continuous pitch ornamentations in Hindustani music.**
+**Thoughts on mapping and interface design of a keyboard to perform continuous pitch ornamentations in Hindustani music.**  
 *Ninad Puranik, Travis West, Marcelo Wanderley, Gary Scavone*
 
 **Investigating Temporal Convolutional Networks for Automated Stroke Transcription in the Mridangam.**  
 *Gopika Krishnan, Akshay Anantapadmanabhan, Kaustuv Kanti Ganguli, Carlos Guedes*
 
-**Disentangling Overlapping Sources: Improving Vocal and Violin Source Separation in Carnatic Music**   
+**Disentangling Overlapping Sources: Improving Vocal and Violin Source Separation in Carnatic Music**  
 *Adithi Shankar Sivasankar, Serafin Schweinitz, Genís Plaja-Roglans, Xavier Serra, Martín Rocamora*
 
-**Expressive Timing in Hindustani Vocal Music**  	
+**Expressive Timing in Hindustani Vocal Music**  
 *Yash Bhake, Preeti Rao*
 
-**Computational Analysis and Classification of the Pannisai system of Indian Classical Music**   	
+**Computational Analysis and Classification of the Pannisai system of Indian Classical Music**  
 *Balamurugan VT, Hrithick Sundar*
 
-**Svara-Forms in Carnatic Music: Contextual Influences on the Performance of Svara**   		
+**Svara-Forms in Carnatic Music: Contextual Influences on the Performance of Svara**  
 *Thomas Nuttall, Xavier Serra, Lara Pearson*
 
-**Raga Agnostic Automatic Melodic Accompaniment for Alapana in Carnatic Music**   
+**Raga Agnostic Automatic Melodic Accompaniment for Alapana in Carnatic Music**  
 *Raghavasimhan Sankaranarayanan, Gil Weinberg*
 
-**Gamaka Synthesis for Kalpitha Swaras in Carnatic Music**   	
+**Gamaka Synthesis for Kalpitha Swaras in Carnatic Music**  
 *Raghavasimhan Sankaranarayanan, Larry Heck, Gil Weinberg*
 
-**Confidence-Enhanced Models for Indian Art Music Analysis**   
+**Confidence-Enhanced Models for Indian Art Music Analysis**     
 *Sumit Kumar, Parampreet Singh, Vipul Arora*
 
-**On Investigating a Better Audio Representation for Mood Classification in Indian Popular Music**   
+**On Investigating a Better Audio Representation for Mood Classification in Indian Popular Music**  
 *Joe Cheri Ross, iArathi K, Hotha  Durga Swetha, Vaishali V G, Abhijith V, Kalyan Munukutla, Shalini Gurram*
 
-**A Notation Dataset for Indian Raga Music**    
+**A Notation Dataset for Indian Raga Music**  
 *Soham Korade, Suswara Pochampally*
