@@ -1,5 +1,6 @@
 ---
 title: Program
+description: Technical Program and Schedule
 background: /assets/theme/images/header.png
 permalink: /program/
 ---
