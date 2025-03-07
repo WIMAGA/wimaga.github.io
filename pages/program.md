@@ -30,7 +30,7 @@ The exact room in the venue will be announced closer to the workshop.
 |  09:30 - 10:45 | **Keynote-1**: Understanding compositions as depictions of raga (*Dr. Sumithra Vasudev*) |
 |  10:45 - 11:00 | **Session-1**: Paper Presentations |
 |  11:00 - 11:30 | Coffee Break |
-|  11:30 - 12:45 | **Keynote-2**: *Prof. Geoffroy Peeters* |
+|  11:30 - 12:45 | **Keynote-2**: Self-Supervised Learning for Invariant and Equivariant representations: How can it be applied to Indian music? (*Prof. Geoffroy Peeters*) |
 |  12:45 - 13:00 | **Session-2**: Paper Presentations |
 |  13:00 - 14:00 | Lunch Break |
 |  14:00 - 14:30 | **Session-3**: Paper Presentations |
