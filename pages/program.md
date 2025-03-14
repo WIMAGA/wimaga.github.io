@@ -27,14 +27,14 @@ The exact room in the venue will be announced closer to the workshop.
 
 ---
 
-**09:30 - 10:45**: Keynote-1
+**09:30 - 10:45** : Keynote-1
 
 **Understanding compositions as depictions of raga**   
 *Dr. Sumithra Vasudev*
 
 ---
 
-**10:45 - 11:00**: Paper presentations Session-1
+**10:45 - 11:00** : Paper presentations Session-1
 
 **Raga Agnostic Automatic Melodic Accompaniment for Alapana in Carnatic Music**  
 *Raghavasimhan Sankaranarayanan, Gil Weinberg*
@@ -47,11 +47,11 @@ The exact room in the venue will be announced closer to the workshop.
 
 ---
 
-**11:00 - 11:30**: Coffee Break
+**11:00 - 11:30** : Coffee Break
 
 ---
 
-**11:30 - 12:45**: Keynote-2
+**11:30 - 12:45** : Keynote-2
 
 **Self-Supervised Learning for Invariant and Equivariant representations: How can it be applied to Indian music?**
 *Prof. Geoffroy Peeters*
@@ -71,7 +71,7 @@ The exact room in the venue will be announced closer to the workshop.
 
 ---
 
-**13:00 - 14:00**: Lunch Break
+**13:00 - 14:00** : Lunch Break
 
 ---
 
@@ -98,15 +98,15 @@ The exact room in the venue will be announced closer to the workshop.
 
 ---
 
-**15:30 - 16:00**: Coffee Break
+**15:30 - 16:00** : Coffee Break
 
 ---
 
-**16:00 - 16:45**: Panel Discussion moderated by Prof. Xavier Serra
+**16:00 - 16:45** : Panel Discussion moderated by Prof. Xavier Serra
 
 ---
 
-**16:45 - 17:30**: Breakout sessions
+**16:45 - 17:30** : Breakout sessions
 
 ---
  
