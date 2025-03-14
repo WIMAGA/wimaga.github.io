@@ -1,5 +1,6 @@
 ---
 title: Attend
+description: Registration and Information for Presenters and Attendees
 background: /assets/theme/images/header.png
 permalink: /attend/
 ---
