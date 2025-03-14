@@ -29,7 +29,7 @@ The exact room in the venue will be announced closer to the workshop.
 
 **09:30 - 10:45**: Keynote-1
 
-**Understanding compositions as depictions of raga**
+**Understanding compositions as depictions of raga**   
 *Dr. Sumithra Vasudev*
 
 ---
