@@ -25,8 +25,8 @@ The exact room in the venue will be announced closer to the workshop.
 
 #### **<span style="color:$gray-800">Tentative Schedule</span>**
 
-| Time     | Details |
-| -------- | ------- |
+|&nbsp; &nbsp; &nbsp; Time &nbsp; &nbsp; &nbsp; | Details |
+| --------------- | ------- |
 |  09:30 - 10:45 | **Keynote-1**: Understanding compositions as depictions of raga (*Dr. Sumithra Vasudev*) |
 |  10:45 - 11:00 | **Session-1**: Paper Presentations |
 |  11:00 - 11:30 | Coffee Break |
