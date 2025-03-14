@@ -25,9 +25,12 @@ The exact room in the venue will be announced closer to the workshop.
 
 #### **<span style="color:$gray-800">Schedule</span>**
 
-**09:30 - 10:45**: Keynote-1 by Dr. Sumithra Vasudev
+---
 
-Understanding compositions as depictions of raga
+**09:30 - 10:45**: Keynote-1
+
+**Understanding compositions as depictions of raga**
+*Dr. Sumithra Vasudev*
 
 ---
 
@@ -48,9 +51,10 @@ Understanding compositions as depictions of raga
 
 ---
 
-**11:30 - 12:45**: Keynote-2 by Prof. Geoffroy Peeters
+**11:30 - 12:45**: Keynote-2
 
-Self-Supervised Learning for Invariant and Equivariant representations: How can it be applied to Indian music?
+**Self-Supervised Learning for Invariant and Equivariant representations: How can it be applied to Indian music?**
+*Prof. Geoffroy Peeters*
 
 ---
 
@@ -72,9 +76,6 @@ Self-Supervised Learning for Invariant and Equivariant representations: How can 
 ---
 
 **14:00 - 14:30** : Paper Presentations (Session-3)
-
----
-
 
 **Thoughts on mapping and interface design of a keyboard to perform continuous pitch ornamentations in Hindustani music.**  
 *Ninad Puranik, Travis West, Marcelo Wanderley, Gary Scavone*
@@ -109,11 +110,10 @@ Self-Supervised Learning for Invariant and Equivariant representations: How can 
 
 ---
 
-#### **<span style="color:$gray-800"> Instructions for presenting authors</span>**
 
+#### **<span style="color:$gray-800"> Instructions for presenting authors</span>**
 Presentation at the workshop involves a 4 minute oral presentation, followed by a common poster session where all papers are presented as a poster. 
 
-Oral presentation: Please plan for a 4 minute oral presentation. Instructions to upload your presentation slides will be sent to you separately. 
+**Oral presentation**: Each paper will be presented with a 4 minute oral presentation that aims to provide a brief summary of tha paper. Instructions to upload your presentation material will be communicated with authors directly. 
 
-Poster presentation: The poster area includes poster boards of 6' width and 4' height. Therefore, please prepare, print and bring a 3' by 4' landscape format poster or a 4' by 3' portrait format poster. Please use a large font size so that the poster is easily readable by someone who is passing by. The poster can be put up on poster boards at the beginning of the workshop and can stay there the whole day.
-
+**Poster presentation**: The poster area includes poster boards of 6' width and 4' height. Please prepare, print and bring a 3' by 4' landscape format poster or a 4' by 3' portrait format poster. Please use a large font size so that the poster is easily readable by someone who is passing by. The poster can be put up on poster boards at the beginning of the workshop and can stay there the whole day. Authors are encouraged to bring their own laptop and headphones in case they plan to show some demos or audio examples from their work during the poster presentations. 
