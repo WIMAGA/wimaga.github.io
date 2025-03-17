@@ -27,4 +27,4 @@ Workshop Author Registration Deadline: January 27, 2025
 
 Workshop Date: April 07, 2025
 
-Information about the [program]({{ '/program/' | relative_url }}), [scope]({{ '/scope/' | relative_url }}), and [call for papers]({{ '/call/' | relative_url }}) can be found in this website. More information about the workshop program and registration information will be published soon - please watch this website for latest updated information. In the meantime, if you have any questions or need additional information, please contact the workshop organizers at [prao@ee.iitb.ac.in](mailto:prao@ee.iitb.ac.in) or [ajaysri@amazon.com](mailto:ajaysri@amazon.com)
+Information about the [program]({{ '/program/' | relative_url }}), [attendance]({{ '/attend' | relative_url}}), [scope]({{ '/scope/' | relative_url }}), and [call for papers]({{ '/call/' | relative_url }}) can be found in this website. Please watch this website for latest updated information. In the meantime, if you have any questions or need additional information, please contact the workshop organizers at [prao@ee.iitb.ac.in](mailto:prao@ee.iitb.ac.in) or [ajaysri@amazon.com](mailto:ajaysri@amazon.com)
