@@ -21,7 +21,7 @@ Telangana 500081, India.
 [https://hicc.com/](https://hicc.com/)  
 [Google Maps](https://maps.app.goo.gl/peQ2rXjTjnsx8iXe7)  
 
-The exact room in the venue will be announced closer to the workshop. 
+Room: Ballroom
 
 #### **<span style="color:$gray-800">Schedule</span>**
 
